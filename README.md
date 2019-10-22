@@ -1,1 +1,1 @@
-We kindly refer you to [this repo](https://github.com/dinarior/DPMMSubClusters.jl)
+We kindly refer you to [this repo](https://github.com/BGU-CS-VIL/DPMMSubClusters.jl)
